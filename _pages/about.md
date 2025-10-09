@@ -17,21 +17,26 @@ Before starting my PhD, I co-founded an LLM evaluation startup Athina AI (YC 23)
 
 ## Publications
 
-## 🧠 Selected Publications
 
+---
 
-- **C. Ziakas***, A. Russo. *VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models.* *arXiv*, 2025. [Paper](https://arxiv.org/abs/2506.10085)
+## 🧠 Publications
+<div style="font-size:0.9em; line-height:1.5;">
 
-- **C. Ziakas**, N. Loo, N. Jain, A. Russo. *Red-Bandit: Test-Time Adaptation for LLM Red-Teaming via Bandit-Guided LoRA Experts.* *arXiv*, 2025. [Paper](https://arxiv.org/abs/2510.07239)
+- **C. Ziakas**\*, A. Russo. *VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models.* **arXiv**, 2025 **(under review)**. [Paper](https://arxiv.org/abs/2506.10085)
 
-- **C. Ziakas***, A. Russo. *Test-Time Adaptation for Generalizable Task Progress Estimation.* *ICML 2025 Test-Time Adaptation Workshop*, 2025. [Paper](https://arxiv.org/abs/2506.10085v1)
+- **C. Ziakas**, N. Loo, N. Jain, A. Russo. *Red-Bandit: Test-Time Adaptation for LLM Red-Teaming via Bandit-Guided LoRA Experts.* **arXiv**, 2025 **(under review)**. [Paper](https://arxiv.org/abs/2510.07239)
 
-- E. Thornley*, A. Roman*, **C. Ziakas***, L. Ho, L. Thomson. *Towards Shutdownable Agents via Stochastic Choice.* *NeurIPS 2025 ARLET Workshop*, 2025. [Paper](https://arxiv.org/abs/2407.00805)
+- **C. Ziakas**\*, A. Russo. *Test-Time Adaptation for Generalizable Task Progress Estimation.* **ICML 2025 Test-Time Adaptation Workshop**, 2025. [Paper](https://arxiv.org/abs/2506.10085v1)
 
-- V. Digalakis*, **C. Ziakas***. *BackboneLearn: A Library for Scaling Mixed-Integer Optimization-Based Machine Learning.* *arXiv*, 2023. [Paper](https://arxiv.org/abs/2311.13695)
+- E. Thornley\*, A. Roman\*, **C. Ziakas**\*, L. Ho, L. Thomson. *Towards Shutdownable Agents via Stochastic Choice.* **NeurIPS 2025 ARLET Workshop**, 2025. [Paper](https://arxiv.org/abs/2407.00805)
 
-- A. Ouattara*, M. Bulté, W. J. Lin, P. Scholl, B. Veit, **C. Ziakas**, et al. *Scalable Econometrics on Big Data — The Logistic Regression on Spark.* *arXiv*, 2021. [Paper](https://arxiv.org/abs/2106.10341)
+- **C. Ziakas**\*, V. Digalakis Jr. *BackboneLearn: A Library for Scaling Mixed-Integer Optimization-Based Machine Learning.* *arXiv*, 2023. [Paper](https://arxiv.org/abs/2311.13695)
 
-<p style="text-align:center; font-size:0.9em; margin-top:1rem;">
-  * denotes first authorship.
+- A. Ouattara\*, M. Bulté, W. J. Lin, P. Scholl, B. Veit, **C. Ziakas**, et al. *Scalable Econometrics on Big Data — The Logistic Regression on Spark.* *arXiv*, 2021. [Paper](https://arxiv.org/abs/2106.10341)
+
+</div>
+
+<p style="font-size:0.8em; margin-left:2em; margin-top:0.5rem;">
+  <b>*</b> denotes first authorship.
 </p>
