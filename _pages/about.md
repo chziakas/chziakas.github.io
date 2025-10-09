@@ -46,7 +46,7 @@ E. Thornley*, A. Roman*, <b>C. Ziakas*</b>, L. Ho, L. Thomson.<br>
 
 <p>
 <b>BackboneLearn: A Library for Scaling Mixed-Integer Optimization-Based Machine Learning.</b><br>
-<b>V. Digalakis Jr.*</b>, <b>C. Ziakas*</b>.<br>
+V. Digalakis*, <b>C. Ziakas*</b>.<br>
 <i>arXiv</i>, 2023. <a href="https://arxiv.org/abs/2311.13695">[Paper]</a>
 </p>
 
