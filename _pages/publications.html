@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for post in pubs %}
+- {{ post.authors }} — **{{ post.title }}**. *{{ post.venue }}*, {{ post.date | date: "%Y" }}.
+  {% if post.paperurl %}[Paper]({{ post.paperurl }}){% endif %}{% if post.slidesurl %} [Poster]({{ post.slidesurl }}){% endif %}
 {% endfor %}
 
 <p style="text-align:center; font-size:0.9em; margin-top:1rem;">
