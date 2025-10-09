@@ -16,3 +16,11 @@ Before starting my PhD, I co-founded an LLM evaluation startup Athina AI (YC 23)
 
 ## Publications
 
+{% include base_path %}
+{% for post in site.publications reversed %}
+- **{{ post.title }}**  
+  {{ post.authors }}  
+  *{{ post.venue }}*, {{ post.date | date: "%Y" }}.  
+  [Paper]({{ post.paperurl }}) {% if post.code %}· [Code]({{ post.code }}){% endif %}
+{% endfor %}
+
