@@ -60,13 +60,13 @@ A. Ouattara*, M. Bulté, W. J. Lin, P. Scholl, B. Veit, <b>C. Ziakas</b>, et al.
 <p>
 <b>Neural Temporal Point Processes for Capacity Forecasting.</b><br>
 <b>C. Ziakas.</b><br>
-<i>MSc Thesis</i>, Technical University of Munich (supervised by Prof. Stephan Günnemann), 2021.
+<i>MSc Thesis</i>, Technical University of Munich (advisor: Prof. Stephan Günnemann), 2021.
 </p>
 
 <p>
 <b>Implementation of Decision Trees for Data Streams on Spark.</b><br>
 <b>C. Ziakas.</b><br>
-<i>Diploma Thesis</i>, Technical University of Crete (supervised by Prof. Minos Garofalakis), 2018. 
+<i>Diploma Thesis</i>, Technical University of Crete (advisor: Prof. Minos Garofalakis), 2018. 
 <a href="http://purl.tuc.gr/dl/dias/E1E86B11-FFC0-4334-AE22-A90F29608701">[Paper]</a>
 </p>
 
