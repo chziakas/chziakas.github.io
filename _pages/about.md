@@ -13,14 +13,14 @@ I’m pursuing a **PhD in Artificial Intelligence** at [**Imperial College Londo
 
 Previously, I conducted research at [**Microsoft AI**](https://www.microsoft.com/en-us/ai), working on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning. Before starting my PhD, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an **LLM evaluation startup**, and worked in **machine learning** roles at **Turo**, **BMW**, and **Amazon**.
 
-Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the start-up world to a PhD at **c [dot] ziakas24 [at] imperial [dot] ac [dot] uk**.
+Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the start-up world to a PhD at c [dot] ziakas24 [at] imperial [dot] ac [dot] uk.
 
 
 
 
 <h2>Publications & Preprints </h2>
 
-<div style="font-size:0.95em; line-height:1.6; margin-left:1em;">
+<div style="font-size:0.95em; line-height:1.65; margin-left:0; max-width:100%;">
 
 <p>
 <b>VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models.</b><br>
