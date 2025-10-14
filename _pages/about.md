@@ -11,7 +11,7 @@ redirect_from:
 
 I am a [**Marie Skłodowska-Curie Doctoral Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/) at [**Imperial College London**](https://www.imperial.ac.uk/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/). My research interests include **learning in world models**, **training generalist agents**, and **AI safety**.
 
-Previously, I conducted research at [**Microsoft AI**](https://www.microsoft.com/en-us/ai), working on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning. Before starting my PhD, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an LLM evaluation startup, and worked in machine learning roles at Turo, BMW, and Amazon.
+Previously, I conducted research at [**Microsoft AI**](https://www.microsoft.com/en-us/ai), working on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning. Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an LLM evaluation startup, and worked in machine learning roles at Turo, BMW, and Amazon.
 
 Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the start-up world to a PhD.
 
