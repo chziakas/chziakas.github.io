@@ -1,5 +1,5 @@
 ---
-title: "Deep Spatio-Temporal Neural Networks for Capacity Planning of Electric-Vehicle Charging Stations"
+title: "Neural Temporal Point Processes for Capacity Forecasting."
 authors: "C. Ziakas"
 collection: publications
 permalink: /publication/ev-charging-thesis-2021

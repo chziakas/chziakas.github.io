@@ -60,9 +60,9 @@ A. Ouattara*, M. Bulté, W. J. Lin, P. Scholl, B. Veit, <b>C. Ziakas</b>, et al.
 </p>
 
 <p>
-<b>Neural Temporal Point Processes for Capacity Planning.</b><br>
+<b>Neural Temporal Point Processes for Capacity Forecasting.</b><br>
 <b>C. Ziakas.</b><br>
-<i>MScThesis</i>, Technical University of Munich (supervised by Prof. Stephan Günnemann, hosted by BMW), 2021.
+<i>MSc Thesis</i>, Technical University of Munich (supervised by Prof. Stephan Günnemann, hosted by BMW), 2021.
 </p>
 
 <p>
