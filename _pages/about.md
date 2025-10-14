@@ -9,18 +9,18 @@ redirect_from:
 
 ## Bio
 
-I’m pursuing a **PhD in Artificial Intelligence** at [**Imperial College London**](https://www.imperial.ac.uk/) as a [**Marie Skłodowska-Curie Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/). My research focuses on **learning in world models**, **training generalist agents**, and **AI safety**.
+I am a [**Marie Skłodowska-Curie Doctoral Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/) at [**Imperial College London**](https://www.imperial.ac.uk/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/). My research interests include **learning in world models**, **training generalist agents**, and **AI safety**.
 
-Previously, I conducted research at [**Microsoft AI**](https://www.microsoft.com/en-us/ai), working on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning. Before starting my PhD, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an **LLM evaluation startup**, and worked in **machine learning** roles at **Turo**, **BMW**, and **Amazon**.
+Previously, I conducted research at [**Microsoft AI**](https://www.microsoft.com/en-us/ai), working on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning. Before starting my PhD, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an LLM evaluation startup, and worked in machine learning roles at Turo, BMW, and Amazon.
 
-Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the start-up world to a PhD at c [dot] ziakas24 [at] imperial [dot] ac [dot] uk.
+Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the start-up world to a PhD.
 
 
 
 
 <h2>Publications & Preprints </h2>
 
-<div style="font-size:0.95em; line-height:1.65; margin-left:0; max-width:100%;">
+<div style="font-size:0.95em; line-height:1.6; margin-left:1em;">
 
 <p>
 <b>VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models.</b><br>
@@ -37,7 +37,7 @@ Please feel free to reach out if you share similar research interests or would l
 <p>
 <b>Towards Shutdownable Agents via Stochastic Choice.</b><br>
 E. Thornley*, A. Roman*, <b>C. Ziakas*</b>, L. Ho, L. Thomson.<br>
-<i>NeurIPS 2025 Aligning Reinforcement Learning Experimentalists and Theorists Workshop</i>, 2025. <a href="https://arxiv.org/abs/2407.00805">[Paper]</a>
+<i>NeurIPS 2025 Aligning RL Experimentalists and Theorists Workshop</i>, 2025. <a href="https://arxiv.org/abs/2407.00805">[Paper]</a>
 </p>
 
 <p>
@@ -62,7 +62,7 @@ A. Ouattara*, M. Bulté, W. J. Lin, P. Scholl, B. Veit, <b>C. Ziakas</b>, et al.
 <p>
 <b>Neural Temporal Point Processes for Capacity Forecasting.</b><br>
 <b>C. Ziakas.</b><br>
-<i>MSc Thesis</i>, Technical University of Munich (supervised by Prof. Stephan Günnemann, hosted by BMW), 2021.
+<i>MSc Thesis</i>, Technical University of Munich (supervised by Prof. Stephan Günnemann), 2021.
 </p>
 
 <p>
