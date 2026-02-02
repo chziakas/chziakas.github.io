@@ -23,7 +23,7 @@ Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.a
 <p>
 <b>VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models.</b><br>
 <b>C. Ziakas*</b>, A. Russo.<br>
-<i>arXiv</i>, 2025 (under review). <a href="https://arxiv.org/abs/2506.10085">[Paper]</a>
+<i>arXiv</i>, 2025 (ICLR 2026). <a href="https://arxiv.org/abs/2506.10085">[Paper]</a>
 </p>
 
 <p>
@@ -35,7 +35,7 @@ Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.a
 <p>
 <b>Towards Shutdownable Agents via Stochastic Choice.</b><br>
 E. Thornley*, A. Roman*, <b>C. Ziakas*</b>, L. Ho, L. Thomson.<br>
-<i>NeurIPS 2025 Aligning RL Experimentalists and Theorists Workshop</i>, 2025. <a href="https://arxiv.org/abs/2407.00805">[Paper]</a>
+<i>TMLR 2025</i>, 2025. <a href="https://arxiv.org/abs/2407.00805">[Paper]</a>
 </p>
 
 <p>
