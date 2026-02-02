@@ -1,18 +1,24 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Preprints"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign pubs = site.publications | sort: "weight" %}
 {% for post in pubs %}
-- {{ post.authors }} — **{{ post.title }}**. *{{ post.venue }}*, {{ post.date | date: "%Y" }}.
-  {% if post.paperurl %}[Paper]({{ post.paperurl }}){% endif %}{% if post.slidesurl %} [Poster]({{ post.slidesurl }}){% endif %}
+<p style="margin-bottom: 1rem;">
+{% if post.paperurl %}<a href="{{ post.paperurl }}"><b>{{ post.title }}.</b></a>{% else %}<b style="color: #52adc8;">{{ post.title }}.</b>{% endif %}<br>
+<i>{{ post.authors }}.</i><br>
+{{ post.venue }}{% unless post.venue contains "202" %}, {{ post.date | date: "%Y" }}{% endunless %}.
+</p>
 {% endfor %}
 
-<p style="text-align:center; font-size:0.9em; margin-top:1rem;">
-  * denotes equal contribution or first authorship.
+<p style="font-size:0.9em; margin-top:1rem;">
+  For a full list of publications and preprints, please visit my <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a> page.
+</p>
+<p style="font-size:0.9em;">
+  &#42; indicates equal first authorship.
 </p>

@@ -9,8 +9,8 @@
 
 main:
  
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications & Preprints"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
