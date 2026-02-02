@@ -28,7 +28,7 @@ Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.a
 {% endfor %}
 
 <p style="font-size:0.85em; margin-top:0.5rem;">
-  For a full list, please visit my <a href="/publications/">Publications & Preprints</a> page.
+  For a full list, please visit <a href="/publications/">Publications & Preprints</a> page.
 </p>
 <p style="font-size:0.85em;">
   &#42; indicates equal first authorship.
