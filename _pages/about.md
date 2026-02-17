@@ -9,7 +9,7 @@ redirect_from:
 
 ## Bio
 
-I am a [**MSCA Doctoral Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/) at [**Imperial College London**](https://www.imperial.ac.uk/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/). My research interests lie in **generalist agents**, **world models**, and **AI safety**. In fact, my research focuses on enchancing the generalization of foundation generative models (e.g., LLMs, VLAs, video models) under unseen scenarios via world models and test-time adaptation. Previously, I worked at [**Microsoft AI**](https://www.microsoft.com/en-us/ai) on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning.
+I am a [**MSCA Doctoral Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/) at [**Imperial College London**](https://www.imperial.ac.uk/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/). My research interests lie in **generalist agents**, **world models**, and **AI safety**. In fact, my research focuses on enhancing the generalization of foundation generative models (e.g., LLMs, VLAs, video models) under unseen scenarios via world models and test-time adaptation. Previously, I worked at [**Microsoft AI**](https://www.microsoft.com/en-us/ai) on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning.
 
 
 
