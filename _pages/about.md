@@ -9,11 +9,13 @@ redirect_from:
 
 ## Bio
 
-I am a [**MSCA Doctoral Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/) at [**Imperial College London**](https://www.imperial.ac.uk/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/). My research interests lie in **generalist agents**, **world models**, and **AI safety**. In fact, my research focuses on enhancing the generalization of foundation generative models (e.g., LLMs, VLAs, video models) under unseen scenarios via world models and test-time adaptation. Previously, I worked at [**Microsoft AI**](https://www.microsoft.com/en-us/ai) on post-training [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use and reasoning.
+I am a final-year Doctoral Fellow at [**Imperial College London**](https://www.imperial.ac.uk/), supported by an [**MSCA Doctoral Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/) and [**Prof. Joey Bose**](https://scholar.google.com/citations?user=ybPyI7IAAAAJ&hl=en). My research focuses on the generalization, test-time adaptation, and evaluation of foundation generative models.
 
+Currently, I am a Research Intern at [**Microsoft Research AI Frontiers**](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) in New York, hosted by [**Siddhartha Sen**](https://www.microsoft.com/en-us/research/people/sidsen/) and [**John Langford**](https://www.microsoft.com/en-us/research/people/jcl/). I collaborated with [**Google DeepMind**](https://deepmind.google/) on benchmarking LLMs on hard STEM tasks. Previously, I worked at Microsoft AI on RL post-training for [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/copilot), focusing on tool use and reasoning.
 
+Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an LLM observability startup. I also hold an MSc in Data Science from [**TU Munich**](https://www.tum.de/), where I worked on deep generative models under [**Prof. Stephan Günnemann**](https://www.cs.cit.tum.de/daml/team/daml-team/), hosted at BMW.
 
-Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an LLM observability startup, and worked in machine learning roles at Turo, BMW, and Amazon. Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the start-up world to a PhD.
+I co-organize the [**ICARL Seminar**](https://icarl.doc.ic.ac.uk/seminar-series) at Imperial and am a mentor at [**SPAR**](https://sparai.org/). Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the startup world to a PhD.
 
 
 
