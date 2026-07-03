@@ -9,4 +9,5 @@ paperurl: https://arxiv.org/abs/2510.07239
 excerpt: "A bandit-driven mixture of LoRA experts that adapts at test time to uncover vulnerabilities during LLM red-teaming."
 selected: true
 weight: 3
+image: /images/publications/redbandit_inference_example.gif
 ---

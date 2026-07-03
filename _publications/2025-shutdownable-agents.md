@@ -7,6 +7,7 @@ date: 2025-12-01
 venue: "<b>TMLR 2025</b>"
 paperurl: "https://arxiv.org/abs/2407.00805"
 excerpt: "Explores mechanisms for shutdownable agents using stochastic choice, analyzing behavior under intervention and uncertainty."
-selected: true
+selected: false
 weight: 4
+image: /images/publications/example_gridworld_single_DREST.png
 ---

@@ -9,4 +9,5 @@ paperurl: https://arxiv.org/abs/2506.10085
 excerpt: "Shows that contrastive VLMs can be adapted at test time to serve as generalizable value estimators for decision-making."
 selected: true
 weight: 2
+image: /images/publications/vita.png
 ---

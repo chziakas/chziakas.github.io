@@ -9,4 +9,5 @@ paperurl: https://arxiv.org/abs/2605.12416
 excerpt: "Flow map policies for fast action generation in offline-to-online RL with Q-guided trust-region optimization."
 selected: true
 weight: 1
+image: /images/publications/fmq_teaser.gif
 ---

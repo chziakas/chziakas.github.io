@@ -9,4 +9,5 @@ paperurl: https://arxiv.org/abs/2602.01960
 excerpt: "Grounds video generation in feasible action plans using world models for embodied decision-making."
 selected: true
 weight: 1
+image: /images/publications/gvp_wm.jpg
 ---
