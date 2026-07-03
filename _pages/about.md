@@ -24,18 +24,11 @@ I co-organize the [**ICARL Seminar**](https://icarl.doc.ic.ac.uk/seminar-series)
 
 {% assign selected_pubs = site.publications | where: "selected", true | sort: "weight" %}
 {% for post in selected_pubs %}
-<div style="margin-bottom: 1.5rem; padding: 0.75rem; border-radius: 8px; border: 1px solid var(--border-color, #ccc);">
-<div style="margin-bottom: 0.5rem;">
+<p style="margin-bottom: 1rem;">
 {% if post.paperurl %}<a href="{{ post.paperurl }}"><b>{{ post.title }}.</b></a>{% else %}<b>{{ post.title }}.</b>{% endif %}<br>
 <i>{{ post.authors | replace: "<b>", "<span style='font-weight:600;'>" | replace: "</b>", "</span>" }}.</i><br>
 {{ post.venue }}{% unless post.venue contains "202" %}, {{ post.date | date: "%Y" }}{% endunless %}.
-</div>
-{% if post.image %}
-<div style="text-align: center; margin-top: 0.5rem;">
-<img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}" style="max-width: 70%; max-height: 150px; border-radius: 4px;">
-</div>
-{% endif %}
-</div>
+</p>
 {% endfor %}
 
 <p style="font-size:0.85em; margin-top:0.5rem;">
