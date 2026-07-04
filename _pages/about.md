@@ -13,7 +13,7 @@ I am a final-year [**MSCA Doctoral Fellow**](https://marie-sklodowska-curie-acti
 
 I am doing a research internship at [**Microsoft Research AI Frontiers**](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) in New York, hosted by [**Siddhartha Sen**](https://www.microsoft.com/en-us/research/people/sidsen/) and [**John Langford**](https://www.microsoft.com/en-us/research/people/jcl/). Previously, I collaborated with [**Google DeepMind**](https://deepmind.google/) on benchmarking LLMs on hard STEM tasks. I also worked at [**Microsoft AI**](https://www.microsoft.com/en-us/ai) on post-training [**Copilot 365**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use.
 
-Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an LLM observability startup. I also hold an MSc in Data Science from [**TU Munich**](https://www.tum.de/), where my thesis was supervised by [**Stephan Günnemann**](https://scholar.google.com/citations?user=npqoAWwAAAAJ&hl=de) and hosted at [**BMW**](https://www.bmwgroup.com/).
+Before pursuing a PhD in AI, I co-founded [**Athina AI (YC W23)**](https://www.athina.ai/), an LLM observability startup. I also hold an MSc in Data Science from [**TU Munich**](https://www.tum.de/), where my thesis was supervised by [**Prof. Stephan Günnemann**](https://scholar.google.com/citations?user=npqoAWwAAAAJ&hl=de) and hosted at [**BMW**](https://www.bmwgroup.com/).
 
 I co-organize the [**ICARL Seminar**](https://icarl.doc.ic.ac.uk/seminar-series) at Imperial and am a mentor at [**SPAR**](https://sparai.org/). Please feel free to reach out if you share similar research interests or would like to discuss transitioning from the startup world to a PhD.
 
