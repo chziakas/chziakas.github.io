@@ -9,7 +9,7 @@ redirect_from:
 
 ## Bio
 
-I am a final-year [**MSCA Doctoral Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/) at [**Imperial College London**](https://www.imperial.ac.uk/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/) and [**Prof. Joey Bose**](https://scholar.google.com/citations?user=ybPyI7IAAAAJ&hl=en). My research interests focus on **test-time adaptation** and **post-training** for foundation **generative models** to advance **automated scientific research** and **embodied AI**.
+I am a final-year [**MSCA Doctoral Fellow**](https://marie-sklodowska-curie-actions.ec.europa.eu/) at [**Imperial College London**](https://www.imperial.ac.uk/), advised by [**Prof. Alessandra Russo**](https://www.doc.ic.ac.uk/~acr/) and [**Prof. Joey Bose**](https://scholar.google.com/citations?user=ybPyI7IAAAAJ&hl=en). My research interests focus on **test-time adaptation** and **post-training** for **generative foundation models** to advance **automated scientific research** and **embodied AI**.
 
 I did a research internship at [**Microsoft Research AI Frontiers**](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) in New York, hosted by [**Siddhartha Sen**](https://www.microsoft.com/en-us/research/people/sidsen/) and [**John Langford**](https://www.microsoft.com/en-us/research/people/jcl/). Previously, I collaborated with [**Google DeepMind**](https://deepmind.google/) on benchmarking LLMs on hard STEM tasks. I also worked at [**Microsoft AI**](https://www.microsoft.com/en-us/ai) on post-training [**Copilot 365**](https://www.microsoft.com/en-us/microsoft-365/copilot) for tool use.
 
