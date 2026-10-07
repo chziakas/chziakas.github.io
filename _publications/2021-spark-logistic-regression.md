@@ -1,6 +1,6 @@
 ---
 title: "Scalable Econometrics on Big Data—The Logistic Regression on Spark"
-authors: "A. Ouattara*, M. Bulté, W. J. Lin, P. Scholl, B. Veit, <b>C. Ziakas</b>, et al."
+authors: "A. Ouattara*, M. Bulté, W. J. Lin, P. Scholl, B. Veit, <b>C. Ziakas</b>, F. Felice, J. Virlogeux, G. Dikos"
 collection: publications
 permalink: /publication/logit-spark-2021
 date: 2021-06-01
